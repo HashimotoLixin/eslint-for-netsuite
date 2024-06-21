@@ -18,7 +18,7 @@ module.exports = {
         camelcase: 'off',
         'import/no-amd': 'off',
         'no-trailing-spaces': ['error', { skipBlankLines: true }],
-        'max-len': ['error', { code: 1500 }],
+        'max-len': ['error', { code: 2000 }],
         'comma-dangle': ['error', 'never'],
         'object-shorthand': ['error', 'never'],
         'no-var': 'off',
