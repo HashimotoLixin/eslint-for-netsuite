@@ -1,0 +1,13 @@
+git add -A
+
+git commit "init"    
+
+git commit -m "init" 
+
+git push
+
+git status
+
+git cm 'init'
+
+pwd
